@@ -1,0 +1,19 @@
+body{
+ background-color: rgb(232, 231, 231);
+ font-family: 'Acme', sans-serif;
+ font-size: 2.8rem;
+ /* font-weight: normal; */
+/* font-family: 'Ysabeau', sans-serif; */
+}
+#first {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 350px;
+    height: 120px;
+    background-color: #ffffff;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
